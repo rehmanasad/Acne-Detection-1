@@ -1,0 +1,6 @@
+train: D:/7th Semester/DS/Project/yolo_dataset/train/images
+val: D:/7th Semester/DS/Project/yolo_dataset/val/images
+test: D:/7th Semester/DS/Project/yolo_dataset/test/images
+
+nc: 3  # Number of classes (cyst, comedo, pustule)
+names: ['cyst', 'comedo', 'pustule']
